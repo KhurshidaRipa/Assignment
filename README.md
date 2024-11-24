@@ -14,7 +14,7 @@ _Hajee Mohammad Danesh Science and Technology University_
 
 
 
-### **Submitted To Headings**  
+### **Submitted To**  
 
 **Pankaj Bhowmik**  
 
@@ -92,15 +92,15 @@ The system will benefit the following:
 1. Requirement Analysis
 - Find out what is required in the system from the students and teachers.
 - Add to the list important feature specifications like:
-- - Showing the results online.
-- - Adding graphs for monitoring the CGPA.
+	- Showing the results online.
+ 	- Adding graphs for monitoring the CGPA.
 
 2. System Design
 - Make a **plan** for the system.
 - Designing of a database to store:
-- - Student results
-- - User Information
-- - CGPA Data
+ - Student results
+ - User Information
+ - CGPA Data
 
 3. Incremental Development
 We will be developing the system in very small steps.
