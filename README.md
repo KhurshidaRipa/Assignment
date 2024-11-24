@@ -40,7 +40,9 @@ Level 3, Semester I
 
 ### **Objective**
 
-The project is an **Evaluation System of Result** which aims for easy viewing of results by students and for teachers to upload marks for each subject. It also has a **graph** (Ogive line) in which students can see the progress of their CGPA (Cumulative Grade Point Average) through semesters.  
+The project is an **Evaluation System of Result** which aims for easy viewing of results by students and for teachers to upload marks for each subject. It also has a **graph** (Ogive line) in which students can see the progress of their CGPA (Cumulative Grade Point Average) through semesters. 
+
+![An image of ojive line representing student growth](https://www.vedantu.com/question-sets/0cda99b5-1b52-4b41-ae8c-639785e21a557643306511706780895.png)
 
 
 The whole process of checking results is made smooth, clear and fast. The **Incremental SDLC Model** is used in developing this system stepwise. 
