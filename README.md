@@ -53,6 +53,8 @@ Why Adopt the Incremental Model?
 
 We have adopted the **Incremental Model** due to the reasons listed below:
 
+![A image of incremental development sdlc model](https://www.interviewbit.com/blog/wp-content/uploads/2022/02/Phases-of-Incremental-Model-1536x1003.png)
+
 1. **Fast Delivery**: Early availability of crucial features.
 
 2. **Frequent Feedback**: Improvement of the system after every stage based on feedback of student and teacher.
