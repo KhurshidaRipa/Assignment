@@ -1,7 +1,4 @@
-# **Result Evaluation System for Students' Academic Growth Tracking**
-  
-**Course Title**: Software Engineering  
-**Course Code**: CSE 305  
+### **Result Evaluation System for Students' Academic Growth Tracking**
 
 ### **Submitted To**  
 **Pankaj Bhowmik**  
@@ -14,6 +11,9 @@ _Hajee Mohammad Danesh Science and Technology University_
 Student ID: 2102036  
 Level 3, Semester I  
 **Department of Computer Science and Engineering**
+
+**Course Title**: Software Engineering  
+**Course Code**: CSE 305 
 
 ---
 
